@@ -1,0 +1,74 @@
+Henri Evjen
+8/26/19
+CS 1570 - 102
+hw1
+
+1.
+
+1) The teacher calls the first student.
+
+2) All of the student(s) that have been called call another student while
+the teacher calls another student.
+
+3) Repeat step 2 four additional times.
+
+
+2. 
+
+1) Check if the monetary value is greater than $125.33, if it is, output
+that the operation is not possible.
+
+2) Check if the monetary value is divisible by 9, if it is, output that the
+operation is not possible.
+
+3) Make three tally charts: one for quarters, one for dimes, and one for
+pennies.
+
+4) Subtract 25 cents from the monetary value.
+
+5) If the original monetary value is still positive and greater than 0, add
+a tally to the quarters chart and repeat steps 4 and 5 until the monetary
+value is negative or equals 0.
+
+6) If the monetary value equals 0, output that the operation is possible and
+state the coin combination reading how many of each coin there are based on
+the tally chart and end the algorithm.
+
+7) If the monetary value is negative, add the 25 cents back on to the
+original monetary value.
+
+8) Repeat steps 4, 5, 6, and 7, but where the word quarter is used, replace
+it with dime. Where the value 25 cents is used, replace it with 10 cents.
+
+8) Then repeat steps 4, 5, 6, and 7, but where the word dime is used,
+replace it with penny. Where the value 10 cents is used, replace it with 1
+cent.
+
+
+3.
+
+1) Check if the right side of Roger is blocked.
+
+2) If Roger is at Dr. Frank's Prostheses and Garden shop, finish the
+algorithm.
+
+3) If the right is not blocked, move right one space and go back to step
+number 1.
+
+4) Check if the front is blocked.
+
+5) If Roger is at Dr. Frank's Prostheses and Garden shop, finish the
+algorithm.
+
+6) If the front is not blocked, move forward one space and go back to step
+number 1.
+
+7) Check if the left is blocked.
+
+8) If Roger is at Dr. Frank's Prostheses and Garden shop, finish the
+algorithm.
+
+9) If the left is not blocked, move left one space and go back to step
+number 1.
+
+10) Move backwards one space and turn around and go back to step number 1. 
